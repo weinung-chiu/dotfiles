@@ -24,6 +24,7 @@ setopt SHARE_HISTORY
 # ── Aliases & Functions ───────────────────────────────────────────────────────
 alias zshrc="$EDITOR ~/.zshrc"
 alias ascii="man ascii"
+alias ll='ls -arthl'
 
 # ── Tools ─────────────────────────────────────────────────────────────────────
 # gcloud
