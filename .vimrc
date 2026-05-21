@@ -13,7 +13,7 @@ syntax on
 
 filetype plugin indent on
 
-colorscheme murphy
+colorscheme blue
 
 " -----------------------------------------------------------------------------
 " 2. UI & Usability Improvements
