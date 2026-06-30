@@ -25,6 +25,7 @@ setopt SHARE_HISTORY
 alias zshrc="$EDITOR ~/.zshrc"
 alias ascii="man ascii"
 alias lll='ls -arthl'
+alias c='clear'
 
 # ── Tools ─────────────────────────────────────────────────────────────────────
 # gcloud
